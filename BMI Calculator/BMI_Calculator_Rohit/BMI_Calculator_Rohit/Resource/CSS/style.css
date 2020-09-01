@@ -1,0 +1,17 @@
+﻿* {
+    padding: 0px;
+    margin: 0px;
+    font-family: "Poppins";
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 9vh;
+    max-height: 9vh;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 14px;
+    background-color: #222222;
+}

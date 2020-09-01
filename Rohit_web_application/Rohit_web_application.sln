@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rohit_web_application", "Rohit_web_application\Rohit_web_application.csproj", "{7A004401-0D55-4068-BE3C-A4147BE565D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A004401-0D55-4068-BE3C-A4147BE565D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A004401-0D55-4068-BE3C-A4147BE565D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A004401-0D55-4068-BE3C-A4147BE565D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A004401-0D55-4068-BE3C-A4147BE565D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A32406E-E88D-49AA-B87B-33F1385E4D5A}
+	EndGlobalSection
+EndGlobal
