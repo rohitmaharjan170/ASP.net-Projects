@@ -1,0 +1,118 @@
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\Stuudent_registration_Rohit.dll.config
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\Stuudent_registration_Rohit.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\Stuudent_registration_Rohit.pdb
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\csc.exe
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\csc.exe.config
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\csc.rsp
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\csi.exe
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\csi.exe.config
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\csi.rsp
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.AppContext.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Console.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.IO.Compression.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Net.Http.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Net.Sockets.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.ValueTuple.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\vbc.exe
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\vbc.exe.config
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\vbc.rsp
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\VBCSCompiler.exe
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\obj\Debug\Stuudent_registration_Rohit.csprojAssemblyReference.cache
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\obj\Debug\Stuudent_registration_Rohit.csproj.CoreCompileInputs.cache
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\obj\Debug\Stuudent_registration_Rohit.csproj.CopyComplete
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\obj\Debug\Stuudent_registration_Rohit.dll
+C:\Users\rmaha\Desktop\Asp .net Web Application\Student Login Registration\Stuudent_registration_Rohit\Stuudent_registration_Rohit\obj\Debug\Stuudent_registration_Rohit.pdb
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\Stuudent_registration_Rohit.dll.config
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\Stuudent_registration_Rohit.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\Stuudent_registration_Rohit.pdb
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\csc.exe
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\csc.exe.config
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\csc.rsp
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\csi.exe
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\csi.exe.config
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\csi.rsp
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\Microsoft.Managed.Core.targets
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.AppContext.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Collections.Immutable.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Console.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Globalization.Calendars.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.IO.Compression.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.IO.FileSystem.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Net.Http.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Net.Sockets.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Reflection.Metadata.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.ValueTuple.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Xml.XmlDocument.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Xml.XPath.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\vbc.exe
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\vbc.exe.config
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\vbc.rsp
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\VBCSCompiler.exe
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\roslyn\VBCSCompiler.exe.config
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\obj\Debug\Stuudent_registration_Rohit.csprojAssemblyReference.cache
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\obj\Debug\Stuudent_registration_Rohit.csproj.CoreCompileInputs.cache
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\obj\Debug\Stuudent_registration_Rohit.csproj.CopyComplete
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\obj\Debug\Stuudent_registration_Rohit.dll
+F:\ASP.net-Projects\5. Stuudent_registration_Rohit\Stuudent_registration_Rohit\obj\Debug\Stuudent_registration_Rohit.pdb
